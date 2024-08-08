@@ -1,0 +1,14 @@
+//Çalıştığınız yazılım şirketi bir üniversiteye platform geliştiriyor. Siz de geliştirme ekibine alındınız. Ve ekip yöneticinizden sabah bir email aldınız. Projenin önemli bir kodunu yazmanızı istiyor: "Öğrencilerin sınav sonuçlarını hesaplayan kodu yazıp bugün akşama kadar gönderir misin? Kolay gelsin." Böylece yazılımcı olarak ilk işinizi aldınız. Başarılar!
+
+Yöneticiniz bilgi notunda şu detayları vermiş:
+
+Kodun öğrencinin dönem sonu notunu hesaplayacak.
+Dönem sonu notu, öğrencinin final ve vize notundan hesaplanacak. Vizenin ağırlığı %30, finalin ise %70. Örneğin, vizeden 50, finalden 100 almışsa, notu 85 olacak.
+Projede diğer arkadaşların kodlarıyla uyumlu olması için onların kullandığı değişken adlarını kullan. Vize notunu, final notunu, dönem sonu ortalamasını ve harf notunu temsilen sırayla vize, final, donemNotu, harfNotu adlarında değişkenler oluşturalım.
+Okulda notlar A, B, C, D, E, ya da F şeklinde veriliyor:
+Eğer dönem puanı 90-100 arasında ise harfNotu değerini 'A' yapalım.
+Eğer dönem puanı 80-89 arasında ise harfNotu değerini 'B' yapalım.
+Eğer dönem puanı 70-79 arasında ise harfNotu değerini 'C' yapalım.
+Eğer dönem puanı 60-69 arasında ise harfNotu değerini 'D' yapalım.
+Eğer dönem puanı 50-59 arasında ise harfNotu değerini 'E' yapalım.
+Eğer dönem puanı 50'nin altında ise harfNotu değerini 'F' yapalım.
